@@ -1,4 +1,4 @@
-package com.ingcrisman.proyectoactivites;
+package com.ingcrisman.ProyectoAndroidGrupo06;
 
 import org.junit.Test;
 
